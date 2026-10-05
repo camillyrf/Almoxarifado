@@ -13,7 +13,7 @@ O objetivo do sistema é substituir registos manuais por uma solução estrutura
 
 ---
 
-## 🚀 Tecnologias e Conceitos Utilizados
+## Tecnologias e Conceitos Utilizados
 
 - **Linguagem:** Java 
 - **Paradigma:** Programação Orientada a Objetos (POO)
@@ -24,11 +24,11 @@ O objetivo do sistema é substituir registos manuais por uma solução estrutura
 
 ---
 
-## 💻 Funcionalidades e Relatórios
+## Funcionalidades e Relatórios
 
-- [x] Registo validado de insumos por categoria.
-- [x] **Relatório 1:** Consulta do Estoque Total.
-- [x] **Relatório 2:** Busca de produtos por nome/substring.
-- [x] **Relatório 3:** Alerta preventivo de Itens a Repor (nível de estoque mínimo).
-- [x] **Relatório 4:** Alerta crítico de Itens em Falta (estoque zerado).
+- Registo validado de insumos por categoria.
+- **Relatório 1:** Consulta do Estoque Total.
+- **Relatório 2:** Busca de produtos por nome/substring.
+- **Relatório 3:** Alerta preventivo de Itens a Repor (nível de estoque mínimo).
+- **Relatório 4:** Alerta crítico de Itens em Falta (estoque zerado).
 
