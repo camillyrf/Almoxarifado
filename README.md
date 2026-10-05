@@ -31,10 +31,3 @@ O objetivo do sistema é substituir registos manuais por uma solução estrutura
 - [x] **Relatório 3:** Alerta preventivo de Itens a Repor (nível de estoque mínimo).
 - [x] **Relatório 4:** Alerta crítico de Itens em Falta (estoque zerado).
 
----
-
-## ⚙️ Como Executar
-
-1. Clona o repositório:
-   ```bash
-   git clone [https://github.com/teu-usuario/nome-do-repositorio.git](https://github.com/teu-usuario/nome-do-repositorio.git)
