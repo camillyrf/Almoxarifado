@@ -3,9 +3,9 @@
 Nome: Camilly Ramiro Franco
 RA: 26002072
 
-Projeto Integrador desenvolvido em **Java** focado na automação e controlo de estoque para uma **Microempresa (ME)** em São João da Boa Vista – SP, atuante na distribuição B2B de produtos de limpeza e utensílios operacionais.
+Projeto Integrador desenvolvido em **Java** focado na automação e controle de estoque para uma **Microempresa (ME)** em São João da Boa Vista – SP, atuante na distribuição B2B de produtos de limpeza e utensílios operacionais.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O objetivo do sistema é substituir registos manuais por uma solução estruturada de gestão de insumos internos (embalagens, materiais encartelados e suprimentos de escritório), prevenindo a rutura de estoque e garantindo o fluxo logístico de expedição.
 
