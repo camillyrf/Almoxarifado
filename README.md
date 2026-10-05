@@ -1,8 +1,9 @@
 # Almoxarifado
 
-Projeto Integrador desenvolvido em **Java** focado na automação e controlo de estoque para uma **Microempresa (ME)** em São João da Boa Vista – SP, atuante na distribuição B2B de produtos de limpeza e utensílios operacionais.
+Nome: Camilly Ramiro Franco
+RA: 26002072
 
----
+Projeto Integrador desenvolvido em **Java** focado na automação e controlo de estoque para uma **Microempresa (ME)** em São João da Boa Vista – SP, atuante na distribuição B2B de produtos de limpeza e utensílios operacionais.
 
 ## 📌 Sobre o Projeto
 
